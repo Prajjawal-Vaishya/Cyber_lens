@@ -38,36 +38,34 @@ This repository is intentionally **partially implemented** to encourage learning
 
 ## 📁 Project Structure
 
+```text
 Cyber-Lens/
 │
 ├── frontend/
-│ ├── src/
-│ │ ├── pages/
-│ │ │ ├── Home.jsx
-│ │ │ ├── History.jsx
-│ │ │ └── News.jsx
-│ │ ├── components/
-│ │ ├── App.jsx
-│ │ └── main.jsx
+│   ├── src/
+│   │   ├── pages/
+│   │   │   ├── Home.jsx
+│   │   │   ├── History.jsx
+│   │   │   └── News.jsx
+│   │   ├── components/
+│   │   ├── App.jsx
+│   │   └── main.jsx
 │
 ├── backend/
-│ └── src/
-│ ├── config/
-│ │ └── db.js
-│ ├── models/
-│ ├── providers/
-│ ├── services/
-│ ├── routes/
-│ ├── app.js
-│ └── server.js
+│   └── src/
+│       ├── config/
+│       │   └── db.js
+│       ├── models/
+│       ├── providers/
+│       ├── services/
+│       ├── routes/
+│       ├── app.js
+│       └── server.js
 │
 ├── contributors/
 │
 └── README.md
-
-
----
-
+```
 ## 🧩 Contribution Workflow
 
 1. **Fork** this repository
